@@ -1,0 +1,1 @@
+FunkinFPSPlus.exe -novid
